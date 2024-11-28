@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+<file target-language="tr" source-language="en" original="lit-localize-inputs" datatype="plaintext">
+<body>
+<trans-unit id="scba00271d50c74f6">
+  <source>Employees</source>
+  <target>Çalışanlar</target>
+</trans-unit>
+<trans-unit id="s4ec58dc6a75753da">
+  <source>Add New</source>
+  <target>Yeni Ekle</target>
+</trans-unit>
+<trans-unit id="h98630d6a2c554458">
+  <source>Selected employee record of <x id="0" equiv-text="${selectedEmployee.name} ${selectedEmployee.surname}"/> will be deleted.</source>
+  <target>Seçilen <x id="0" equiv-text="${selectedEmployee.name} ${selectedEmployee.surname}"/> kişisi silinecek.</target>
+</trans-unit>
+<trans-unit id="s3db6c3999daeecdb">
+  <source>Employee List</source>
+  <target>Çalışan Listesi</target>
+</trans-unit>
+<trans-unit id="s7b749fd31ad79dc3">
+  <source>Email is already registered.</source>
+  <target>Eposta adresi zaten kayıtlı.</target>
+</trans-unit>
+<trans-unit id="sc83c7c4620b0a6e1">
+  <source>Employee Form</source>
+  <target>Çalışan Kayıt Formu</target>
+</trans-unit>
+<trans-unit id="sc66aaa662761137a">
+  <source>Not Found</source>
+  <target>Bulunamadı</target>
+</trans-unit>
+<trans-unit id="s475ee802995f856e">
+  <source>Sorry, the page you are looking for does not exist</source>
+  <target>Üzgünüz, aradığınız sayfa bulunamadı</target>
+</trans-unit>
+<trans-unit id="s2c2b04f2561a1d4b">
+  <source>Analytics</source>
+  <target>Analitik</target>
+</trans-unit>
+<trans-unit id="s24aadbfb1b1a1a11">
+  <source>Tech</source>
+  <target>Teknoloji</target>
+</trans-unit>
+<trans-unit id="s7404d9208a486318">
+  <source>Junior</source>
+  <target>Uzman Yardımcısı</target>
+</trans-unit>
+<trans-unit id="sacc4d771f79ccced">
+  <source>Medior</source>
+  <target>Uzman</target>
+</trans-unit>
+<trans-unit id="s8a37652cc28d3c55">
+  <source>Senior</source>
+  <target>Kıdemli Uzman</target>
+</trans-unit>
+<trans-unit id="sefce4d47e59c74c8">
+  <source>Name should contains at least 3 chars.</source>
+  <target>Ad en az 3 karakterden oluşmalı.</target>
+</trans-unit>
+<trans-unit id="s520d1d1db3f9cf6f">
+  <source>Last name should contains at least 2 chars.</source>
+  <target>Soyad en az 2 karakterden oluşmalı.</target>
+</trans-unit>
+<trans-unit id="s8138e59e2bee0c9f">
+  <source>Date of empleyment can not be empty.</source>
+  <target>İşe alım tarihi boş olamaz.</target>
+</trans-unit>
+<trans-unit id="s1553e72eff4a7ed2">
+  <source>Date of birth can not be empty.</source>
+  <target>Doğum tarihi boş olamaz.</target>
+</trans-unit>
+<trans-unit id="s5aa4d0341fd842ae">
+  <source>Email should follow name@domain.com format.</source>
+  <target>Eposta ad@alanadi.com formatında olmalı.</target>
+</trans-unit>
+<trans-unit id="s8d6cc437efbc387e">
+  <source>Phone number should follow +905XXXXXXXXX format.</source>
+  <target>Telefon +905XXXXXXXXX formatında olmalı.</target>
+</trans-unit>
+<trans-unit id="s2c57913ffd36d298">
+  <source>First Name</source>
+  <target>Ad</target>
+</trans-unit>
+<trans-unit id="s95a75a2392af5780">
+  <source>Last Name</source>
+  <target>Soyad</target>
+</trans-unit>
+<trans-unit id="s772528836550622c">
+  <source>Date of Employment</source>
+  <target>İşe Giriş Tarihi</target>
+</trans-unit>
+<trans-unit id="s53802e3f37d072a7">
+  <source>Date of Birth</source>
+  <target>Doğum Tarihi</target>
+</trans-unit>
+<trans-unit id="s871b1fe6d1846958">
+  <source>Phone Number</source>
+  <target>Telefon</target>
+</trans-unit>
+<trans-unit id="s1e2e135dac5ba993">
+  <source>Email Address</source>
+  <target>Eposta</target>
+</trans-unit>
+<trans-unit id="s1e45a4d7635fbda7">
+  <source>Department</source>
+  <target>Bölüm</target>
+</trans-unit>
+<trans-unit id="sc1611c0558728a2a">
+  <source>Position</source>
+  <target>Pozisyon</target>
+</trans-unit>
+<trans-unit id="sb3d4f79d9d8b71e5">
+  <source>Submit</source>
+  <target>Kaydet</target>
+</trans-unit>
+<trans-unit id="sf1bc83d2509bafcf">
+  <source>Phone</source>
+  <target>Telefon</target>
+</trans-unit>
+<trans-unit id="sd1f44f1a8bc20e67">
+  <source>Email</source>
+  <target>Eposta</target>
+</trans-unit>
+<trans-unit id="s8af61807443f32a4">
+  <source>Actions</source>
+  <target>İşlem</target>
+</trans-unit>
+<trans-unit id="s250a10b618d4d50f">
+  <source>No record.</source>
+  <target>Kayıt yok.</target>
+</trans-unit>
+<trans-unit id="s268ecd1cef45a9a8">
+  <source>Are you sure?</source>
+  <target>Emin misiniz?</target>
+</trans-unit>
+<trans-unit id="s2714784162ec459d">
+  <source>Proceed</source>
+  <target>Devam</target>
+</trans-unit>
+<trans-unit id="s2ceb11be2290bb1b">
+  <source>Cancel</source>
+  <target>İptal</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

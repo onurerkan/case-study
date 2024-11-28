@@ -1,0 +1,6 @@
+dist/*
+_documents/*
+coverage/*
+node_modules/*
+tests/*/__snapshots__/*
+.DS_STORE
